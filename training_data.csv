@@ -176,8 +176,11 @@ AN,2020-09-15,"{'delta': {'confirmed': 17, 'recovered': 40, 'tested': 836}, 'tot
 AN,2020-09-16,"{'delta': {'confirmed': 19, 'recovered': 27, 'tested': 971}, 'total': {'confirmed': 3593, 'deceased': 52, 'recovered': 3345, 'tested': 47794}}",3593.0
 AN,2020-09-17,"{'delta': {'confirmed': 11, 'recovered': 33, 'tested': 1067}, 'total': {'confirmed': 3604, 'deceased': 52, 'recovered': 3378, 'tested': 48861}}",3604.0
 AN,2020-09-18,"{'delta': {'confirmed': 27, 'recovered': 36, 'tested': 1174}, 'total': {'confirmed': 3631, 'deceased': 52, 'recovered': 3414, 'tested': 50035}}",3631.0
-AN,2020-09-19,"{'delta': {'confirmed': 13, 'recovered': 22}, 'total': {'confirmed': 3644, 'deceased': 52, 'recovered': 3436, 'tested': 50035}}",3644.0
-AN,2020-09-20,"{'delta': {'confirmed': 7, 'recovered': 15}, 'total': {'confirmed': 3651, 'deceased': 52, 'recovered': 3451, 'tested': 50035}}",3651.0
+AN,2020-09-19,"{'delta': {'confirmed': 13, 'recovered': 22, 'tested': 646}, 'total': {'confirmed': 3644, 'deceased': 52, 'recovered': 3436, 'tested': 50681}}",3644.0
+AN,2020-09-20,"{'delta': {'confirmed': 7, 'recovered': 15, 'tested': 581}, 'total': {'confirmed': 3651, 'deceased': 52, 'recovered': 3451, 'tested': 51262}}",3651.0
+AN,2020-09-21,"{'delta': {'confirmed': 22, 'recovered': 18, 'tested': 958}, 'total': {'confirmed': 3673, 'deceased': 52, 'recovered': 3469, 'tested': 52220}}",3673.0
+AN,2020-09-22,"{'delta': {'confirmed': 18, 'recovered': 10}, 'total': {'confirmed': 3691, 'deceased': 52, 'recovered': 3479, 'tested': 52220}}",3691.0
+AN,2020-09-23,"{'total': {'confirmed': 3691, 'deceased': 52, 'recovered': 3479, 'tested': 52220}}",3691.0
 AP,2020-03-12,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 AP,2020-03-13,{'total': {'confirmed': 1}},1.0
 AP,2020-03-14,{'total': {'confirmed': 1}},1.0
@@ -371,6 +374,9 @@ AP,2020-09-17,"{'delta': {'confirmed': 8702, 'deceased': 72, 'recovered': 10712,
 AP,2020-09-18,"{'delta': {'confirmed': 8096, 'deceased': 67, 'recovered': 11803, 'tested': 74710}, 'total': {'confirmed': 609558, 'deceased': 5244, 'recovered': 519891, 'tested': 4959081}}",609558.0
 AP,2020-09-19,"{'delta': {'confirmed': 8218, 'deceased': 58, 'recovered': 10820, 'tested': 74595}, 'total': {'confirmed': 617776, 'deceased': 5302, 'recovered': 530711, 'tested': 5033676}}",617776.0
 AP,2020-09-20,"{'delta': {'confirmed': 7738, 'deceased': 57, 'recovered': 10608, 'tested': 70455}, 'total': {'confirmed': 625514, 'deceased': 5359, 'recovered': 541319, 'tested': 5104131}}",625514.0
+AP,2020-09-21,"{'delta': {'confirmed': 6235, 'deceased': 51, 'recovered': 10502, 'tested': 56569}, 'total': {'confirmed': 631749, 'deceased': 5410, 'recovered': 551821, 'tested': 5160700}}",631749.0
+AP,2020-09-22,"{'delta': {'confirmed': 7553, 'deceased': 51, 'recovered': 10555, 'tested': 68829}, 'total': {'confirmed': 639302, 'deceased': 5461, 'recovered': 562376, 'tested': 5229529}}",639302.0
+AP,2020-09-23,"{'total': {'confirmed': 639302, 'deceased': 5461, 'recovered': 562376, 'tested': 5229529}}",639302.0
 AR,2020-04-02,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 AR,2020-04-03,{'total': {'confirmed': 1}},1.0
 AR,2020-04-04,{'total': {'confirmed': 1}},1.0
@@ -543,6 +549,9 @@ AR,2020-09-17,"{'delta': {'confirmed': 159, 'recovered': 180, 'tested': 1910}, '
 AR,2020-09-18,"{'delta': {'confirmed': 154, 'recovered': 139, 'tested': 2083}, 'total': {'confirmed': 7005, 'deceased': 13, 'recovered': 5106, 'tested': 218285}}",7005.0
 AR,2020-09-19,"{'delta': {'confirmed': 245, 'recovered': 174, 'tested': 2421}, 'total': {'confirmed': 7250, 'deceased': 13, 'recovered': 5280, 'tested': 220706}}",7250.0
 AR,2020-09-20,"{'delta': {'confirmed': 135, 'recovered': 128, 'tested': 1723}, 'total': {'confirmed': 7385, 'deceased': 13, 'recovered': 5408, 'tested': 222429}}",7385.0
+AR,2020-09-21,"{'delta': {'confirmed': 210, 'recovered': 235, 'tested': 2899}, 'total': {'confirmed': 7595, 'deceased': 13, 'recovered': 5643, 'tested': 225328}}",7595.0
+AR,2020-09-22,"{'delta': {'confirmed': 249, 'deceased': 1, 'recovered': 135, 'tested': 2914}, 'total': {'confirmed': 7844, 'deceased': 14, 'recovered': 5778, 'tested': 228242}}",7844.0
+AR,2020-09-23,"{'total': {'confirmed': 7844, 'deceased': 14, 'recovered': 5778, 'tested': 228242}}",7844.0
 AS,2020-03-31,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 AS,2020-04-01,"{'delta': {'confirmed': 15}, 'total': {'confirmed': 16}}",16.0
 AS,2020-04-02,"{'delta': {'tested': 962}, 'total': {'confirmed': 16, 'tested': 962}}",16.0
@@ -717,6 +726,9 @@ AS,2020-09-17,"{'delta': {'confirmed': 1380, 'deceased': 17, 'recovered': 2246, 
 AS,2020-09-18,"{'delta': {'confirmed': 2509, 'deceased': 12, 'recovered': 2074, 'tested': 36027}, 'total': {'confirmed': 152858, 'deceased': 540, 'other': 3, 'recovered': 123684, 'tested': 2871869}}",152858.0
 AS,2020-09-19,"{'delta': {'confirmed': 2595, 'deceased': 8, 'recovered': 1856, 'tested': 35175}, 'total': {'confirmed': 155453, 'deceased': 548, 'other': 3, 'recovered': 125540, 'tested': 2907044}}",155453.0
 AS,2020-09-20,"{'delta': {'confirmed': 1227, 'deceased': 14, 'recovered': 1795, 'tested': 19318}, 'total': {'confirmed': 156680, 'deceased': 562, 'other': 3, 'recovered': 127335, 'tested': 2926362}}",156680.0
+AS,2020-09-21,"{'delta': {'confirmed': 2640, 'deceased': 16, 'recovered': 1795, 'tested': 35603}, 'total': {'confirmed': 159320, 'deceased': 578, 'other': 3, 'recovered': 129130, 'tested': 2961965}}",159320.0
+AS,2020-09-22,"{'delta': {'confirmed': 2073, 'deceased': 8, 'recovered': 1817, 'tested': 29647}, 'total': {'confirmed': 161393, 'deceased': 586, 'other': 3, 'recovered': 130947, 'tested': 2991612}}",161393.0
+AS,2020-09-23,"{'total': {'confirmed': 161393, 'deceased': 586, 'other': 3, 'recovered': 130947, 'tested': 2991612}}",161393.0
 BR,2020-03-22,"{'delta': {'confirmed': 2}, 'total': {'confirmed': 2}}",2.0
 BR,2020-03-23,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 3}}",3.0
 BR,2020-03-24,{'total': {'confirmed': 3}},3.0
@@ -900,6 +912,9 @@ BR,2020-09-17,"{'delta': {'confirmed': 1592, 'deceased': 7, 'recovered': 1465, '
 BR,2020-09-18,"{'delta': {'confirmed': 1147, 'deceased': 4, 'recovered': 1678, 'tested': 92156}, 'total': {'confirmed': 165371, 'deceased': 859, 'other': 1, 'recovered': 151400, 'tested': 5399493}}",165371.0
 BR,2020-09-19,"{'delta': {'confirmed': 1616, 'deceased': 2, 'recovered': 1556, 'tested': 124332}, 'total': {'confirmed': 166987, 'deceased': 861, 'other': 1, 'recovered': 152956, 'tested': 5523825}}",166987.0
 BR,2020-09-20,"{'delta': {'confirmed': 1555, 'deceased': 3, 'recovered': 1487, 'tested': 176511}, 'total': {'confirmed': 168542, 'deceased': 864, 'other': 1, 'recovered': 154443, 'tested': 5700336}}",168542.0
+BR,2020-09-21,"{'delta': {'confirmed': 1314, 'deceased': 6, 'recovered': 1381, 'tested': 173603}, 'total': {'confirmed': 169856, 'deceased': 870, 'other': 1, 'recovered': 155824, 'tested': 5873939}}",169856.0
+BR,2020-09-22,"{'delta': {'confirmed': 1609, 'deceased': 3, 'recovered': 1232, 'tested': 194088}, 'total': {'confirmed': 171465, 'deceased': 873, 'other': 1, 'recovered': 157056, 'tested': 6068027}}",171465.0
+BR,2020-09-23,"{'total': {'confirmed': 171465, 'deceased': 873, 'other': 1, 'recovered': 157056, 'tested': 6068027}}",171465.0
 CH,2020-03-19,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 CH,2020-03-20,"{'delta': {'confirmed': 4}, 'total': {'confirmed': 5}}",5.0
 CH,2020-03-21,{'total': {'confirmed': 5}},5.0
@@ -1086,6 +1101,9 @@ CH,2020-09-17,"{'delta': {'confirmed': 288, 'deceased': 5, 'recovered': 379, 'te
 CH,2020-09-18,"{'delta': {'confirmed': 260, 'deceased': 4, 'recovered': 353, 'tested': 1258}, 'total': {'confirmed': 9506, 'deceased': 110, 'other': 3, 'recovered': 6415, 'tested': 58937}}",9506.0
 CH,2020-09-19,"{'delta': {'confirmed': 290, 'deceased': 6, 'recovered': 351, 'tested': 1374}, 'total': {'confirmed': 9796, 'deceased': 116, 'other': 3, 'recovered': 6766, 'tested': 60311}}",9796.0
 CH,2020-09-20,"{'delta': {'confirmed': 286, 'deceased': 4, 'recovered': 372, 'tested': 2523}, 'total': {'confirmed': 10082, 'deceased': 120, 'other': 3, 'recovered': 7138, 'tested': 62834}}",10082.0
+CH,2020-09-21,"{'delta': {'confirmed': 216, 'deceased': 3, 'recovered': 273, 'tested': 1791}, 'total': {'confirmed': 10298, 'deceased': 123, 'other': 3, 'recovered': 7411, 'tested': 64625}}",10298.0
+CH,2020-09-22,"{'delta': {'confirmed': 248, 'deceased': 4, 'recovered': 383, 'tested': 2395}, 'total': {'confirmed': 10546, 'deceased': 127, 'other': 3, 'recovered': 7794, 'tested': 67020}}",10546.0
+CH,2020-09-23,"{'total': {'confirmed': 10546, 'deceased': 127, 'other': 3, 'recovered': 7794, 'tested': 67020}}",10546.0
 CT,2020-03-19,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 CT,2020-03-20,{'total': {'confirmed': 1}},1.0
 CT,2020-03-21,{'total': {'confirmed': 1}},1.0
@@ -1272,6 +1290,9 @@ CT,2020-09-17,"{'delta': {'confirmed': 3809, 'deceased': 17, 'recovered': 5226, 
 CT,2020-09-18,"{'delta': {'confirmed': 3842, 'deceased': 17, 'recovered': 3281, 'tested': 32186}, 'total': {'confirmed': 81617, 'deceased': 645, 'recovered': 44392, 'tested': 904770}}",81617.0
 CT,2020-09-19,"{'delta': {'confirmed': 2617, 'deceased': 19, 'recovered': 1689, 'tested': 13685}, 'total': {'confirmed': 84234, 'deceased': 664, 'recovered': 46081, 'tested': 918455}}",84234.0
 CT,2020-09-20,"{'delta': {'confirmed': 1949, 'deceased': 13, 'recovered': 1572, 'tested': 11246}, 'total': {'confirmed': 86183, 'deceased': 677, 'recovered': 47653, 'tested': 929701}}",86183.0
+CT,2020-09-21,"{'delta': {'confirmed': 1998, 'deceased': 13, 'recovered': 1911, 'tested': 12602}, 'total': {'confirmed': 88181, 'deceased': 690, 'recovered': 49564, 'tested': 942303}}",88181.0
+CT,2020-09-22,"{'delta': {'confirmed': 2736, 'deceased': 28, 'recovered': 2437, 'tested': 16149}, 'total': {'confirmed': 90917, 'deceased': 718, 'recovered': 52001, 'tested': 958452}}",90917.0
+CT,2020-09-23,"{'total': {'confirmed': 90917, 'deceased': 718, 'recovered': 52001, 'tested': 958452}}",90917.0
 DL,2020-03-02,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 DL,2020-03-03,{'total': {'confirmed': 1}},1.0
 DL,2020-03-04,{'total': {'confirmed': 1}},1.0
@@ -1475,6 +1496,9 @@ DL,2020-09-17,"{'delta': {'confirmed': 4432, 'deceased': 38, 'recovered': 3587, 
 DL,2020-09-18,"{'delta': {'confirmed': 4127, 'deceased': 30, 'recovered': 3568, 'tested': 61037}, 'total': {'confirmed': 238828, 'deceased': 4907, 'recovered': 201671, 'tested': 2430629}}",238828.0
 DL,2020-09-19,"{'delta': {'confirmed': 4071, 'deceased': 38, 'recovered': 4219, 'tested': 61973}, 'total': {'confirmed': 242899, 'deceased': 4945, 'recovered': 205890, 'tested': 2492602}}",242899.0
 DL,2020-09-20,"{'delta': {'confirmed': 3812, 'deceased': 37, 'recovered': 3742, 'tested': 62405}, 'total': {'confirmed': 246711, 'deceased': 4982, 'recovered': 209632, 'tested': 2555007}}",246711.0
+DL,2020-09-21,"{'delta': {'confirmed': 2548, 'deceased': 32, 'recovered': 3672, 'tested': 23733}, 'total': {'confirmed': 249259, 'deceased': 5014, 'recovered': 213304, 'tested': 2578740}}",249259.0
+DL,2020-09-22,"{'delta': {'confirmed': 3816, 'deceased': 37, 'recovered': 3097, 'tested': 59013}, 'total': {'confirmed': 253075, 'deceased': 5051, 'recovered': 216401, 'tested': 2637753}}",253075.0
+DL,2020-09-23,"{'total': {'confirmed': 253075, 'deceased': 5051, 'recovered': 216401, 'tested': 2637753}}",253075.0
 DN,2020-04-09,"{'delta': {'tested': 80}, 'total': {'tested': 80}}",
 DN,2020-04-10,"{'delta': {'tested': 50}, 'total': {'tested': 130}}",
 DN,2020-04-11,"{'delta': {'tested': 81}, 'total': {'tested': 211}}",
@@ -1635,11 +1659,14 @@ DN,2020-09-12,"{'delta': {'confirmed': 29, 'other': 6, 'recovered': 30, 'tested'
 DN,2020-09-13,"{'delta': {'confirmed': 20, 'other': 1, 'recovered': 44, 'tested': 194}, 'total': {'confirmed': 2745, 'deceased': 2, 'other': 24, 'recovered': 2481, 'tested': 58530}}",2745.0
 DN,2020-09-14,"{'delta': {'confirmed': 24, 'other': -2, 'recovered': 30, 'tested': 624}, 'total': {'confirmed': 2769, 'deceased': 2, 'other': 22, 'recovered': 2511, 'tested': 59154}}",2769.0
 DN,2020-09-15,"{'delta': {'confirmed': 18, 'other': 5, 'recovered': 32, 'tested': 376}, 'total': {'confirmed': 2787, 'deceased': 2, 'other': 27, 'recovered': 2543, 'tested': 59530}}",2787.0
-DN,2020-09-16,"{'delta': {'confirmed': 23, 'recovered': 22, 'tested': 241}, 'total': {'confirmed': 2810, 'deceased': 2, 'other': 27, 'recovered': 2565, 'tested': 59771}}",2810.0
-DN,2020-09-17,"{'delta': {'confirmed': 17, 'recovered': 23}, 'total': {'confirmed': 2827, 'deceased': 2, 'other': 27, 'recovered': 2588, 'tested': 59771}}",2827.0
-DN,2020-09-18,"{'delta': {'confirmed': 24, 'recovered': 28}, 'total': {'confirmed': 2851, 'deceased': 2, 'other': 27, 'recovered': 2616, 'tested': 59771}}",2851.0
-DN,2020-09-19,"{'delta': {'confirmed': 28, 'recovered': 23}, 'total': {'confirmed': 2879, 'deceased': 2, 'other': 27, 'recovered': 2639, 'tested': 59771}}",2879.0
-DN,2020-09-20,"{'delta': {'confirmed': 34, 'other': 2, 'recovered': 16}, 'total': {'confirmed': 2913, 'deceased': 2, 'other': 29, 'recovered': 2655, 'tested': 59771}}",2913.0
+DN,2020-09-16,"{'delta': {'confirmed': 27, 'recovered': 23, 'tested': 241}, 'total': {'confirmed': 2814, 'deceased': 2, 'other': 27, 'recovered': 2566, 'tested': 59771}}",2814.0
+DN,2020-09-17,"{'delta': {'confirmed': 21, 'other': -1, 'recovered': 33, 'tested': 466}, 'total': {'confirmed': 2835, 'deceased': 2, 'other': 26, 'recovered': 2599, 'tested': 60237}}",2835.0
+DN,2020-09-18,"{'delta': {'confirmed': 28, 'other': 3, 'recovered': 31, 'tested': 501}, 'total': {'confirmed': 2863, 'deceased': 2, 'other': 29, 'recovered': 2630, 'tested': 60738}}",2863.0
+DN,2020-09-19,"{'delta': {'confirmed': 28, 'other': -1, 'recovered': 28, 'tested': 532}, 'total': {'confirmed': 2891, 'deceased': 2, 'other': 28, 'recovered': 2658, 'tested': 61270}}",2891.0
+DN,2020-09-20,"{'delta': {'confirmed': 37, 'other': 2, 'recovered': 16, 'tested': 212}, 'total': {'confirmed': 2928, 'deceased': 2, 'other': 30, 'recovered': 2674, 'tested': 61482}}",2928.0
+DN,2020-09-21,"{'delta': {'confirmed': 9, 'recovered': 16}, 'total': {'confirmed': 2937, 'deceased': 2, 'other': 30, 'recovered': 2690, 'tested': 61482}}",2937.0
+DN,2020-09-22,"{'delta': {'confirmed': 10, 'other': -1, 'recovered': 26}, 'total': {'confirmed': 2947, 'deceased': 2, 'other': 29, 'recovered': 2716, 'tested': 61482}}",2947.0
+DN,2020-09-23,"{'total': {'confirmed': 2947, 'deceased': 2, 'other': 29, 'recovered': 2716, 'tested': 61482}}",2947.0
 GA,2020-03-25,"{'delta': {'confirmed': 3}, 'total': {'confirmed': 3}}",3.0
 GA,2020-03-26,{'total': {'confirmed': 3}},3.0
 GA,2020-03-27,{'total': {'confirmed': 3}},3.0
@@ -1820,6 +1847,9 @@ GA,2020-09-17,"{'delta': {'confirmed': 644, 'deceased': 8, 'recovered': 399, 'te
 GA,2020-09-18,"{'delta': {'confirmed': 596, 'deceased': 8, 'recovered': 470, 'tested': 1873}, 'total': {'confirmed': 27379, 'deceased': 335, 'recovered': 21314, 'tested': 233674}}",27379.0
 GA,2020-09-19,"{'delta': {'confirmed': 643, 'deceased': 7, 'recovered': 446, 'tested': 2113}, 'total': {'confirmed': 28022, 'deceased': 342, 'recovered': 21760, 'tested': 235787}}",28022.0
 GA,2020-09-20,"{'delta': {'confirmed': 407, 'deceased': 9, 'recovered': 537, 'tested': 1411}, 'total': {'confirmed': 28429, 'deceased': 351, 'recovered': 22297, 'tested': 237198}}",28429.0
+GA,2020-09-21,"{'delta': {'confirmed': 324, 'deceased': 9, 'recovered': 429, 'tested': 1145}, 'total': {'confirmed': 28753, 'deceased': 360, 'recovered': 22726, 'tested': 238343}}",28753.0
+GA,2020-09-22,"{'delta': {'confirmed': 590, 'deceased': 8, 'recovered': 736, 'tested': 1863}, 'total': {'confirmed': 29343, 'deceased': 368, 'recovered': 23462, 'tested': 240206}}",29343.0
+GA,2020-09-23,"{'total': {'confirmed': 29343, 'deceased': 368, 'recovered': 23462, 'tested': 240206}}",29343.0
 GJ,2020-03-19,"{'delta': {'confirmed': 2}, 'total': {'confirmed': 2}}",2.0
 GJ,2020-03-20,"{'delta': {'confirmed': 5}, 'total': {'confirmed': 7}}",7.0
 GJ,2020-03-21,"{'delta': {'confirmed': 7}, 'total': {'confirmed': 14}}",14.0
@@ -2006,6 +2036,9 @@ GJ,2020-09-17,"{'delta': {'confirmed': 1379, 'deceased': 14, 'recovered': 1652, 
 GJ,2020-09-18,"{'delta': {'confirmed': 1410, 'deceased': 16, 'recovered': 1293, 'tested': 69077}, 'total': {'confirmed': 120498, 'deceased': 3287, 'recovered': 101201, 'tested': 3678350}}",120498.0
 GJ,2020-09-19,"{'delta': {'confirmed': 1432, 'deceased': 16, 'recovered': 1470, 'tested': 61432}, 'total': {'confirmed': 121930, 'deceased': 3303, 'recovered': 102671, 'tested': 3739782}}",121930.0
 GJ,2020-09-20,"{'delta': {'confirmed': 1407, 'deceased': 17, 'recovered': 1204, 'tested': 60687}, 'total': {'confirmed': 123337, 'deceased': 3320, 'recovered': 103875, 'tested': 3800469}}",123337.0
+GJ,2020-09-21,"{'delta': {'confirmed': 1430, 'deceased': 17, 'recovered': 1316, 'tested': 61897}, 'total': {'confirmed': 124767, 'deceased': 3337, 'recovered': 105191, 'tested': 3862366}}",124767.0
+GJ,2020-09-22,"{'delta': {'confirmed': 1402, 'deceased': 16, 'recovered': 1321, 'tested': 62097}, 'total': {'confirmed': 126169, 'deceased': 3353, 'recovered': 106512, 'tested': 3924463}}",126169.0
+GJ,2020-09-23,"{'total': {'confirmed': 126169, 'deceased': 3353, 'recovered': 106512, 'tested': 3924463}}",126169.0
 HP,2020-03-14,"{'delta': {'other': 3}, 'total': {'other': 3}}",
 HP,2020-03-15,{'total': {'other': 3}},
 HP,2020-03-16,{'total': {'other': 3}},
@@ -2197,6 +2230,9 @@ HP,2020-09-17,"{'delta': {'confirmed': 395, 'deceased': 7, 'other': 3, 'recovere
 HP,2020-09-18,"{'delta': {'confirmed': 432, 'deceased': 12, 'recovered': 135, 'tested': 3739}, 'total': {'confirmed': 11622, 'deceased': 109, 'other': 30, 'recovered': 7054, 'tested': 261117}}",11622.0
 HP,2020-09-19,"{'delta': {'confirmed': 286, 'deceased': 5, 'recovered': 403, 'tested': 2463}, 'total': {'confirmed': 11908, 'deceased': 114, 'other': 30, 'recovered': 7457, 'tested': 263580}}",11908.0
 HP,2020-09-20,"{'delta': {'confirmed': 221, 'deceased': 4, 'other': -10, 'recovered': 91, 'tested': 2432}, 'total': {'confirmed': 12129, 'deceased': 118, 'other': 20, 'recovered': 7548, 'tested': 266012}}",12129.0
+HP,2020-09-21,"{'delta': {'confirmed': 309, 'deceased': 7, 'recovered': 288, 'tested': 2003}, 'total': {'confirmed': 12438, 'deceased': 125, 'other': 20, 'recovered': 7836, 'tested': 268015}}",12438.0
+HP,2020-09-22,"{'delta': {'confirmed': 331, 'deceased': 5, 'other': 3, 'recovered': 655, 'tested': 3434}, 'total': {'confirmed': 12769, 'deceased': 130, 'other': 23, 'recovered': 8491, 'tested': 271449}}",12769.0
+HP,2020-09-23,"{'total': {'confirmed': 12769, 'deceased': 130, 'other': 23, 'recovered': 8491, 'tested': 271449}}",12769.0
 HR,2020-03-04,"{'delta': {'confirmed': 14}, 'total': {'confirmed': 14}}",14.0
 HR,2020-03-05,{'total': {'confirmed': 14}},14.0
 HR,2020-03-06,{'total': {'confirmed': 14}},14.0
@@ -2398,6 +2434,9 @@ HR,2020-09-17,"{'delta': {'confirmed': 2457, 'deceased': 24, 'recovered': 2753, 
 HR,2020-09-18,"{'delta': {'confirmed': 2488, 'deceased': 23, 'recovered': 2188, 'tested': 29189}, 'total': {'confirmed': 106261, 'deceased': 1092, 'recovered': 83878, 'tested': 1623268}}",106261.0
 HR,2020-09-19,"{'delta': {'confirmed': 2691, 'deceased': 28, 'recovered': 2272, 'tested': 28214}, 'total': {'confirmed': 108952, 'deceased': 1120, 'recovered': 86150, 'tested': 1651482}}",108952.0
 HR,2020-09-20,"{'delta': {'confirmed': 2305, 'deceased': 29, 'recovered': 2547, 'tested': 29739}, 'total': {'confirmed': 111257, 'deceased': 1149, 'recovered': 88697, 'tested': 1681221}}",111257.0
+HR,2020-09-21,"{'delta': {'confirmed': 1818, 'deceased': 28, 'recovered': 2187, 'tested': 25537}, 'total': {'confirmed': 113075, 'deceased': 1177, 'recovered': 90884, 'tested': 1706758}}",113075.0
+HR,2020-09-22,"{'delta': {'confirmed': 1795, 'deceased': 29, 'recovered': 2892, 'tested': 23216}, 'total': {'confirmed': 114870, 'deceased': 1206, 'recovered': 93776, 'tested': 1729974}}",114870.0
+HR,2020-09-23,"{'total': {'confirmed': 114870, 'deceased': 1206, 'recovered': 93776, 'tested': 1729974}}",114870.0
 JH,2020-03-31,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 JH,2020-04-01,{'total': {'confirmed': 1}},1.0
 JH,2020-04-02,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 2}}",2.0
@@ -2572,6 +2611,9 @@ JH,2020-09-17,"{'delta': {'confirmed': 1026, 'deceased': 11, 'recovered': 1450, 
 JH,2020-09-18,"{'delta': {'confirmed': 1478, 'deceased': 12, 'recovered': 1245, 'tested': 41731}, 'total': {'confirmed': 68578, 'deceased': 602, 'recovered': 54052, 'tested': 1629190}}",68578.0
 JH,2020-09-19,"{'delta': {'confirmed': 1282, 'deceased': 13, 'recovered': 1645, 'tested': 41753}, 'total': {'confirmed': 69860, 'deceased': 615, 'recovered': 55697, 'tested': 1670943}}",69860.0
 JH,2020-09-20,"{'delta': {'confirmed': 1492, 'deceased': 2, 'recovered': 1247, 'tested': 94511}, 'total': {'confirmed': 71352, 'deceased': 617, 'recovered': 56944, 'tested': 1765454}}",71352.0
+JH,2020-09-21,"{'delta': {'confirmed': 1321, 'deceased': 9, 'recovered': 1599, 'tested': 43691}, 'total': {'confirmed': 72673, 'deceased': 626, 'recovered': 58543, 'tested': 1809145}}",72673.0
+JH,2020-09-22,"{'delta': {'confirmed': 1275, 'deceased': 15, 'recovered': 1484, 'tested': 55276}, 'total': {'confirmed': 73948, 'deceased': 641, 'recovered': 60027, 'tested': 1864421}}",73948.0
+JH,2020-09-23,"{'total': {'confirmed': 73948, 'deceased': 641, 'recovered': 60027, 'tested': 1864421}}",73948.0
 JK,2020-03-09,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 JK,2020-03-10,{'total': {'confirmed': 1}},1.0
 JK,2020-03-11,{'total': {'confirmed': 1}},1.0
@@ -2768,6 +2810,9 @@ JK,2020-09-17,"{'delta': {'confirmed': 1467, 'deceased': 19, 'recovered': 712, '
 JK,2020-09-18,"{'delta': {'confirmed': 1330, 'deceased': 15, 'recovered': 784, 'tested': 25510}, 'total': {'confirmed': 61041, 'deceased': 966, 'recovered': 39305, 'tested': 1345750}}",61041.0
 JK,2020-09-19,"{'delta': {'confirmed': 1492, 'deceased': 21, 'recovered': 960, 'tested': 23952}, 'total': {'confirmed': 62533, 'deceased': 987, 'recovered': 40265, 'tested': 1369702}}",62533.0
 JK,2020-09-20,"{'delta': {'confirmed': 1457, 'deceased': 14, 'recovered': 692, 'tested': 27027}, 'total': {'confirmed': 63990, 'deceased': 1001, 'recovered': 40957, 'tested': 1396729}}",63990.0
+JK,2020-09-21,"{'delta': {'confirmed': 1036, 'deceased': 23, 'recovered': 1158, 'tested': 18635}, 'total': {'confirmed': 65026, 'deceased': 1024, 'recovered': 42115, 'tested': 1415364}}",65026.0
+JK,2020-09-22,"{'delta': {'confirmed': 1235, 'deceased': 18, 'recovered': 1619, 'tested': 21045}, 'total': {'confirmed': 66261, 'deceased': 1042, 'recovered': 43734, 'tested': 1436409}}",66261.0
+JK,2020-09-23,"{'total': {'confirmed': 66261, 'deceased': 1042, 'recovered': 43734, 'tested': 1436409}}",66261.0
 KA,2020-03-09,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 KA,2020-03-10,"{'delta': {'confirmed': 3}, 'total': {'confirmed': 4}}",4.0
 KA,2020-03-11,{'total': {'confirmed': 4}},4.0
@@ -2964,6 +3009,9 @@ KA,2020-09-17,"{'delta': {'confirmed': 9366, 'deceased': 93, 'recovered': 7268, 
 KA,2020-09-18,"{'delta': {'confirmed': 8626, 'deceased': 179, 'recovered': 10949, 'tested': 57470}, 'total': {'confirmed': 502982, 'deceased': 7808, 'other': 19, 'recovered': 394026, 'tested': 4115783}}",502982.0
 KA,2020-09-19,"{'delta': {'confirmed': 8364, 'deceased': 114, 'recovered': 10815, 'tested': 63784}, 'total': {'confirmed': 511346, 'deceased': 7922, 'other': 19, 'recovered': 404841, 'tested': 4179567}}",511346.0
 KA,2020-09-20,"{'delta': {'confirmed': 8191, 'deceased': 101, 'recovered': 8611, 'tested': 60477}, 'total': {'confirmed': 519537, 'deceased': 8023, 'other': 19, 'recovered': 413452, 'tested': 4240044}}",519537.0
+KA,2020-09-21,"{'delta': {'confirmed': 7339, 'deceased': 122, 'recovered': 9925, 'tested': 42691}, 'total': {'confirmed': 526876, 'deceased': 8145, 'other': 19, 'recovered': 423377, 'tested': 4282735}}",526876.0
+KA,2020-09-22,"{'delta': {'confirmed': 6974, 'deceased': 83, 'recovered': 9073, 'tested': 55707}, 'total': {'confirmed': 533850, 'deceased': 8228, 'other': 19, 'recovered': 432450, 'tested': 4338442}}",533850.0
+KA,2020-09-23,"{'total': {'confirmed': 533850, 'deceased': 8228, 'other': 19, 'recovered': 432450, 'tested': 4338442}}",533850.0
 KL,2020-01-30,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 KL,2020-02-02,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 2}}",2.0
 KL,2020-02-03,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 3}}",3.0
@@ -3170,7 +3218,10 @@ KL,2020-09-16,"{'delta': {'confirmed': 3830, 'deceased': 14, 'recovered': 2263, 
 KL,2020-09-17,"{'delta': {'confirmed': 4351, 'deceased': 10, 'recovered': 2737, 'tested': 42657}, 'total': {'confirmed': 122216, 'deceased': 490, 'other': 70, 'recovered': 87341, 'tested': 2287796}}",122216.0
 KL,2020-09-18,"{'delta': {'confirmed': 4167, 'deceased': 12, 'other': 1, 'recovered': 2744, 'tested': 48421}, 'total': {'confirmed': 126383, 'deceased': 502, 'other': 71, 'recovered': 90085, 'tested': 2336217}}",126383.0
 KL,2020-09-19,"{'delta': {'confirmed': 4644, 'deceased': 18, 'recovered': 2862, 'tested': 48394}, 'total': {'confirmed': 131027, 'deceased': 520, 'other': 71, 'recovered': 92947, 'tested': 2384611}}",131027.0
-KL,2020-09-20,"{'delta': {'confirmed': 4696, 'deceased': 16, 'recovered': 2751, 'tested': 42763}, 'total': {'confirmed': 135723, 'deceased': 536, 'other': 71, 'recovered': 95698, 'tested': 2427374}}",135723.0
+KL,2020-09-20,"{'delta': {'confirmed': 4696, 'deceased': 16, 'other': 2, 'recovered': 2751, 'tested': 42763}, 'total': {'confirmed': 135723, 'deceased': 536, 'other': 73, 'recovered': 95698, 'tested': 2427374}}",135723.0
+KL,2020-09-21,"{'delta': {'confirmed': 2910, 'deceased': 18, 'recovered': 3022, 'tested': 23225}, 'total': {'confirmed': 138633, 'deceased': 554, 'other': 73, 'recovered': 98720, 'tested': 2450599}}",138633.0
+KL,2020-09-22,"{'delta': {'confirmed': 4125, 'deceased': 19, 'other': 2, 'recovered': 3007, 'tested': 42158}, 'total': {'confirmed': 142758, 'deceased': 573, 'other': 75, 'recovered': 101727, 'tested': 2492757}}",142758.0
+KL,2020-09-23,"{'total': {'confirmed': 142758, 'deceased': 573, 'other': 75, 'recovered': 101727, 'tested': 2492757}}",142758.0
 LA,2020-03-07,"{'delta': {'confirmed': 2}, 'total': {'confirmed': 2}}",2.0
 LA,2020-03-08,{'total': {'confirmed': 2}},2.0
 LA,2020-03-09,{'total': {'confirmed': 2}},2.0
@@ -3369,6 +3420,9 @@ LA,2020-09-17,"{'delta': {'confirmed': 41, 'deceased': 1, 'recovered': 22}, 'tot
 LA,2020-09-18,"{'delta': {'confirmed': 59, 'deceased': 1, 'recovered': 42}, 'total': {'confirmed': 3635, 'deceased': 48, 'recovered': 2600, 'tested': 44147}}",3635.0
 LA,2020-09-19,"{'delta': {'confirmed': 73, 'deceased': 1, 'recovered': 66}, 'total': {'confirmed': 3708, 'deceased': 49, 'recovered': 2666, 'tested': 44147}}",3708.0
 LA,2020-09-20,"{'delta': {'confirmed': 45, 'recovered': 25}, 'total': {'confirmed': 3753, 'deceased': 49, 'recovered': 2691, 'tested': 44147}}",3753.0
+LA,2020-09-21,"{'delta': {'confirmed': 79, 'deceased': 1, 'recovered': 44, 'tested': 4343}, 'total': {'confirmed': 3832, 'deceased': 50, 'recovered': 2735, 'tested': 48490}}",3832.0
+LA,2020-09-22,"{'delta': {'confirmed': 55, 'recovered': 74}, 'total': {'confirmed': 3887, 'deceased': 50, 'recovered': 2809, 'tested': 48490}}",3887.0
+LA,2020-09-23,"{'total': {'confirmed': 3887, 'deceased': 50, 'recovered': 2809, 'tested': 48490}}",3887.0
 MH,2020-03-09,"{'delta': {'confirmed': 2}, 'total': {'confirmed': 2}}",2.0
 MH,2020-03-10,"{'delta': {'confirmed': 3}, 'total': {'confirmed': 5}}",5.0
 MH,2020-03-11,"{'delta': {'confirmed': 6}, 'total': {'confirmed': 11}}",11.0
@@ -3565,6 +3619,9 @@ MH,2020-09-17,"{'delta': {'confirmed': 24619, 'deceased': 468, 'other': 2, 'reco
 MH,2020-09-18,"{'delta': {'confirmed': 21656, 'deceased': 440, 'other': 3, 'recovered': 22078, 'tested': 88455}, 'total': {'confirmed': 1167496, 'deceased': 31791, 'other': 386, 'recovered': 834432, 'tested': 5693345}}",1167496.0
 MH,2020-09-19,"{'delta': {'confirmed': 20519, 'deceased': 425, 'recovered': 23501, 'tested': 92802}, 'total': {'confirmed': 1188015, 'deceased': 32216, 'other': 386, 'recovered': 857933, 'tested': 5786147}}",1188015.0
 MH,2020-09-20,"{'delta': {'confirmed': 20627, 'deceased': 455, 'other': 6, 'recovered': 26408, 'tested': 86094}, 'total': {'confirmed': 1208642, 'deceased': 32671, 'other': 392, 'recovered': 884341, 'tested': 5872241}}",1208642.0
+MH,2020-09-21,"{'delta': {'confirmed': 15738, 'deceased': 344, 'other': 2, 'recovered': 32007, 'tested': 40017}, 'total': {'confirmed': 1224380, 'deceased': 33015, 'other': 394, 'recovered': 916348, 'tested': 5912258}}",1224380.0
+MH,2020-09-22,"{'delta': {'confirmed': 18390, 'deceased': 392, 'other': 5, 'recovered': 20206, 'tested': 105026}, 'total': {'confirmed': 1242770, 'deceased': 33407, 'other': 399, 'recovered': 936554, 'tested': 6017284}}",1242770.0
+MH,2020-09-23,"{'total': {'confirmed': 1242770, 'deceased': 33407, 'other': 399, 'recovered': 936554, 'tested': 6017284}}",1242770.0
 ML,2020-04-13,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 ML,2020-04-14,{'total': {'confirmed': 1}},1.0
 ML,2020-04-15,"{'delta': {'confirmed': 6, 'deceased': 1}, 'total': {'confirmed': 7, 'deceased': 1}}",7.0
@@ -3726,6 +3783,9 @@ ML,2020-09-17,"{'delta': {'confirmed': 162, 'deceased': 3, 'recovered': 78, 'tes
 ML,2020-09-18,"{'delta': {'confirmed': 90, 'deceased': 2, 'recovered': 95, 'tested': 1932}, 'total': {'confirmed': 4447, 'deceased': 34, 'recovered': 2437, 'tested': 129503}}",4447.0
 ML,2020-09-19,"{'delta': {'confirmed': 112, 'deceased': 2, 'recovered': 46, 'tested': 1930}, 'total': {'confirmed': 4559, 'deceased': 36, 'recovered': 2483, 'tested': 131433}}",4559.0
 ML,2020-09-20,"{'delta': {'confirmed': 101, 'recovered': 30}, 'total': {'confirmed': 4660, 'deceased': 36, 'recovered': 2513, 'tested': 131433}}",4660.0
+ML,2020-09-21,"{'delta': {'confirmed': 73, 'deceased': 2, 'recovered': 15, 'tested': 1826}, 'total': {'confirmed': 4733, 'deceased': 38, 'recovered': 2528, 'tested': 133259}}",4733.0
+ML,2020-09-22,"{'delta': {'confirmed': 58, 'deceased': 2, 'recovered': 179, 'tested': 2312}, 'total': {'confirmed': 4791, 'deceased': 40, 'recovered': 2707, 'tested': 135571}}",4791.0
+ML,2020-09-23,"{'total': {'confirmed': 4791, 'deceased': 40, 'recovered': 2707, 'tested': 135571}}",4791.0
 MN,2020-03-24,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 MN,2020-03-25,{'total': {'confirmed': 1}},1.0
 MN,2020-03-26,{'total': {'confirmed': 1}},1.0
@@ -3907,6 +3967,9 @@ MN,2020-09-17,"{'delta': {'confirmed': 110, 'deceased': 3, 'recovered': 18, 'tes
 MN,2020-09-18,"{'delta': {'confirmed': 177, 'deceased': 1, 'recovered': 90, 'tested': 3201}, 'total': {'confirmed': 8607, 'deceased': 52, 'recovered': 6629, 'tested': 204871}}",8607.0
 MN,2020-09-19,"{'delta': {'confirmed': 117, 'deceased': 3, 'recovered': 94, 'tested': 2115}, 'total': {'confirmed': 8724, 'deceased': 55, 'recovered': 6723, 'tested': 206986}}",8724.0
 MN,2020-09-20,"{'delta': {'confirmed': 170, 'deceased': 2, 'recovered': 44, 'tested': 2877}, 'total': {'confirmed': 8894, 'deceased': 57, 'recovered': 6767, 'tested': 209863}}",8894.0
+MN,2020-09-21,"{'delta': {'confirmed': 116, 'deceased': 2, 'recovered': 71, 'tested': 2312}, 'total': {'confirmed': 9010, 'deceased': 59, 'recovered': 6838, 'tested': 212175}}",9010.0
+MN,2020-09-22,"{'delta': {'confirmed': 270, 'deceased': 1, 'recovered': 49, 'tested': 3439}, 'total': {'confirmed': 9280, 'deceased': 60, 'recovered': 6887, 'tested': 215614}}",9280.0
+MN,2020-09-23,"{'total': {'confirmed': 9280, 'deceased': 60, 'recovered': 6887, 'tested': 215614}}",9280.0
 MP,2020-03-20,"{'delta': {'confirmed': 4}, 'total': {'confirmed': 4}}",4.0
 MP,2020-03-21,{'total': {'confirmed': 4}},4.0
 MP,2020-03-22,"{'delta': {'confirmed': 2}, 'total': {'confirmed': 6}}",6.0
@@ -4092,6 +4155,9 @@ MP,2020-09-17,"{'delta': {'confirmed': 2391, 'deceased': 33, 'recovered': 2863, 
 MP,2020-09-18,"{'delta': {'confirmed': 2552, 'deceased': 24, 'recovered': 2554, 'tested': 20435}, 'total': {'confirmed': 100458, 'deceased': 1901, 'recovered': 76952, 'tested': 1782505}}",100458.0
 MP,2020-09-19,"{'delta': {'confirmed': 2607, 'deceased': 42, 'recovered': 2206, 'tested': 19209}, 'total': {'confirmed': 103065, 'deceased': 1943, 'recovered': 79158, 'tested': 1801714}}",103065.0
 MP,2020-09-20,"{'delta': {'confirmed': 2579, 'deceased': 27, 'recovered': 2216, 'tested': 20583}, 'total': {'confirmed': 105644, 'deceased': 1970, 'recovered': 81374, 'tested': 1822297}}",105644.0
+MP,2020-09-21,"{'delta': {'confirmed': 2523, 'deceased': 37, 'recovered': 2244, 'tested': 21783}, 'total': {'confirmed': 108167, 'deceased': 2007, 'recovered': 83618, 'tested': 1844080}}",108167.0
+MP,2020-09-22,"{'delta': {'confirmed': 2544, 'deceased': 28, 'recovered': 2412, 'tested': 17698}, 'total': {'confirmed': 110711, 'deceased': 2035, 'recovered': 86030, 'tested': 1861778}}",110711.0
+MP,2020-09-23,"{'total': {'confirmed': 110711, 'deceased': 2035, 'recovered': 86030, 'tested': 1861778}}",110711.0
 MZ,2020-03-25,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 MZ,2020-03-26,{'total': {'confirmed': 1}},1.0
 MZ,2020-03-27,{'total': {'confirmed': 1}},1.0
@@ -4272,6 +4338,9 @@ MZ,2020-09-17,"{'delta': {'confirmed': 26, 'recovered': 20, 'tested': 1264}, 'to
 MZ,2020-09-18,"{'delta': {'confirmed': 28, 'recovered': 24, 'tested': 1549}, 'total': {'confirmed': 1534, 'recovered': 973, 'tested': 57012}}",1534.0
 MZ,2020-09-19,"{'delta': {'confirmed': 14, 'recovered': 16, 'tested': 2003}, 'total': {'confirmed': 1548, 'recovered': 989, 'tested': 59015}}",1548.0
 MZ,2020-09-20,"{'delta': {'confirmed': 30, 'recovered': 13, 'tested': 1744}, 'total': {'confirmed': 1578, 'recovered': 1002, 'tested': 60759}}",1578.0
+MZ,2020-09-21,"{'delta': {'confirmed': 7, 'recovered': 10, 'tested': 1648}, 'total': {'confirmed': 1585, 'recovered': 1012, 'tested': 62407}}",1585.0
+MZ,2020-09-22,"{'delta': {'confirmed': 106, 'recovered': 11, 'tested': 1905}, 'total': {'confirmed': 1691, 'recovered': 1023, 'tested': 64312}}",1691.0
+MZ,2020-09-23,"{'total': {'confirmed': 1691, 'recovered': 1023, 'tested': 64312}}",1691.0
 NL,2020-04-06,"{'delta': {'tested': 60}, 'total': {'tested': 60}}",
 NL,2020-04-07,{'total': {'tested': 60}},
 NL,2020-04-08,{'total': {'tested': 60}},
@@ -4440,6 +4509,9 @@ NL,2020-09-17,"{'delta': {'confirmed': 43, 'recovered': 111, 'tested': 446}, 'to
 NL,2020-09-18,"{'delta': {'confirmed': 51, 'other': 2, 'recovered': 29, 'tested': 519}, 'total': {'confirmed': 5357, 'deceased': 10, 'other': 26, 'recovered': 4108, 'tested': 72596}}",5357.0
 NL,2020-09-19,"{'delta': {'confirmed': 35, 'recovered': 42, 'tested': 211}, 'total': {'confirmed': 5392, 'deceased': 10, 'other': 26, 'recovered': 4150, 'tested': 72807}}",5392.0
 NL,2020-09-20,"{'delta': {'confirmed': 59, 'other': 3, 'recovered': 78, 'tested': 804}, 'total': {'confirmed': 5451, 'deceased': 10, 'other': 29, 'recovered': 4228, 'tested': 73611}}",5451.0
+NL,2020-09-21,"{'delta': {'confirmed': 93, 'other': 2, 'recovered': 223, 'tested': 812}, 'total': {'confirmed': 5544, 'deceased': 10, 'other': 31, 'recovered': 4451, 'tested': 74423}}",5544.0
+NL,2020-09-22,"{'delta': {'confirmed': 60, 'recovered': 40, 'tested': 555}, 'total': {'confirmed': 5604, 'deceased': 10, 'other': 31, 'recovered': 4491, 'tested': 74978}}",5604.0
+NL,2020-09-23,"{'total': {'confirmed': 5604, 'deceased': 10, 'other': 31, 'recovered': 4491, 'tested': 74978}}",5604.0
 OR,2020-03-16,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 OR,2020-03-17,{'total': {'confirmed': 1}},1.0
 OR,2020-03-18,{'total': {'confirmed': 1}},1.0
@@ -4629,6 +4701,9 @@ OR,2020-09-17,"{'delta': {'confirmed': 4241, 'deceased': 13, 'recovered': 3607, 
 OR,2020-09-18,"{'delta': {'confirmed': 4180, 'deceased': 13, 'recovered': 4101, 'tested': 48146}, 'total': {'confirmed': 171341, 'deceased': 735, 'recovered': 137567, 'tested': 2667747}}",171341.0
 OR,2020-09-19,"{'delta': {'confirmed': 4209, 'deceased': 9, 'recovered': 4090, 'tested': 48075}, 'total': {'confirmed': 175550, 'deceased': 744, 'recovered': 141657, 'tested': 2715822}}",175550.0
 OR,2020-09-20,"{'delta': {'confirmed': 4330, 'deceased': 10, 'recovered': 4018, 'tested': 51154}, 'total': {'confirmed': 179880, 'deceased': 754, 'recovered': 145675, 'tested': 2766976}}",179880.0
+OR,2020-09-21,"{'delta': {'confirmed': 4242, 'deceased': 9, 'recovered': 3704, 'tested': 47758}, 'total': {'confirmed': 184122, 'deceased': 763, 'recovered': 149379, 'tested': 2814734}}",184122.0
+OR,2020-09-22,"{'delta': {'confirmed': 4189, 'deceased': 11, 'recovered': 3834, 'tested': 45676}, 'total': {'confirmed': 188311, 'deceased': 774, 'recovered': 153213, 'tested': 2860410}}",188311.0
+OR,2020-09-23,"{'delta': {'deceased': 1}, 'total': {'confirmed': 188311, 'deceased': 775, 'recovered': 153213, 'tested': 2860410}}",188311.0
 PB,2020-03-09,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 PB,2020-03-10,{'total': {'confirmed': 1}},1.0
 PB,2020-03-11,{'total': {'confirmed': 1}},1.0
@@ -4825,6 +4900,9 @@ PB,2020-09-17,"{'delta': {'confirmed': 2848, 'deceased': 54, 'recovered': 2248, 
 PB,2020-09-18,"{'delta': {'confirmed': 2774, 'deceased': 60, 'recovered': 2640, 'tested': 27672}, 'total': {'confirmed': 92806, 'deceased': 2706, 'recovered': 68458, 'tested': 1524012}}",92806.0
 PB,2020-09-19,"{'delta': {'confirmed': 2723, 'deceased': 51, 'recovered': 1915, 'tested': 28381}, 'total': {'confirmed': 95529, 'deceased': 2757, 'recovered': 70373, 'tested': 1552393}}",95529.0
 PB,2020-09-20,"{'delta': {'confirmed': 2160, 'deceased': 56, 'recovered': 2225, 'tested': 26720}, 'total': {'confirmed': 97689, 'deceased': 2813, 'recovered': 72598, 'tested': 1579113}}",97689.0
+PB,2020-09-21,"{'delta': {'confirmed': 2241, 'deceased': 47, 'recovered': 2811, 'tested': 20021}, 'total': {'confirmed': 99930, 'deceased': 2860, 'recovered': 75409, 'tested': 1599134}}",99930.0
+PB,2020-09-22,"{'delta': {'confirmed': 1411, 'deceased': 66, 'recovered': 1718, 'tested': 28687}, 'total': {'confirmed': 101341, 'deceased': 2926, 'recovered': 77127, 'tested': 1627821}}",101341.0
+PB,2020-09-23,"{'total': {'confirmed': 101341, 'deceased': 2926, 'recovered': 77127, 'tested': 1627821}}",101341.0
 PY,2020-03-17,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 PY,2020-03-18,{'total': {'confirmed': 1}},1.0
 PY,2020-03-19,{'total': {'confirmed': 1}},1.0
@@ -5013,6 +5091,9 @@ PY,2020-09-17,"{'delta': {'confirmed': 317, 'deceased': 13, 'recovered': 330, 't
 PY,2020-09-18,"{'delta': {'confirmed': 485, 'deceased': 6, 'recovered': 462, 'tested': 5278}, 'total': {'confirmed': 21913, 'deceased': 437, 'recovered': 16715, 'tested': 130099}}",21913.0
 PY,2020-09-19,"{'delta': {'confirmed': 543, 'deceased': 11, 'recovered': 494, 'tested': 5160}, 'total': {'confirmed': 22456, 'deceased': 448, 'recovered': 17209, 'tested': 135259}}",22456.0
 PY,2020-09-20,"{'delta': {'confirmed': 467, 'deceased': 10, 'recovered': 347, 'tested': 4848}, 'total': {'confirmed': 22923, 'deceased': 458, 'recovered': 17556, 'tested': 140107}}",22923.0
+PY,2020-09-21,"{'delta': {'confirmed': 268, 'deceased': 9, 'recovered': 509, 'tested': 3794}, 'total': {'confirmed': 23191, 'deceased': 467, 'recovered': 18065, 'tested': 143901}}",23191.0
+PY,2020-09-22,"{'delta': {'confirmed': 493, 'deceased': 6, 'recovered': 389, 'tested': 5600}, 'total': {'confirmed': 23684, 'deceased': 473, 'recovered': 18454, 'tested': 149501}}",23684.0
+PY,2020-09-23,"{'total': {'confirmed': 23684, 'deceased': 473, 'recovered': 18454, 'tested': 149501}}",23684.0
 RJ,2020-03-03,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 RJ,2020-03-04,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 2}}",2.0
 RJ,2020-03-05,{'total': {'confirmed': 2}},2.0
@@ -5215,6 +5296,9 @@ RJ,2020-09-17,"{'delta': {'confirmed': 1793, 'deceased': 14, 'recovered': 1333, 
 RJ,2020-09-18,"{'delta': {'confirmed': 1817, 'deceased': 15, 'recovered': 1580, 'tested': 27971}, 'total': {'confirmed': 111290, 'deceased': 1308, 'recovered': 92265, 'tested': 2795479}}",111290.0
 RJ,2020-09-19,"{'delta': {'confirmed': 1834, 'deceased': 14, 'recovered': 1540, 'tested': 30783}, 'total': {'confirmed': 113124, 'deceased': 1322, 'recovered': 93805, 'tested': 2826262}}",113124.0
 RJ,2020-09-20,"{'delta': {'confirmed': 1865, 'deceased': 14, 'recovered': 1664, 'tested': 30456}, 'total': {'confirmed': 114989, 'deceased': 1336, 'recovered': 95469, 'tested': 2856718}}",114989.0
+RJ,2020-09-21,"{'delta': {'confirmed': 1892, 'deceased': 16, 'recovered': 1815, 'tested': 13549}, 'total': {'confirmed': 116881, 'deceased': 1352, 'recovered': 97284, 'tested': 2870267}}",116881.0
+RJ,2020-09-22,"{'delta': {'confirmed': 1912, 'deceased': 15, 'recovered': 1528, 'tested': 33786}, 'total': {'confirmed': 118793, 'deceased': 1367, 'recovered': 98812, 'tested': 2904053}}",118793.0
+RJ,2020-09-23,"{'total': {'confirmed': 118793, 'deceased': 1367, 'recovered': 98812, 'tested': 2904053}}",118793.0
 SK,2020-05-04,"{'delta': {'tested': 170}, 'total': {'tested': 170}}",
 SK,2020-05-05,"{'delta': {'tested': 11}, 'total': {'tested': 181}}",
 SK,2020-05-06,"{'delta': {'tested': 8}, 'total': {'tested': 189}}",
@@ -5355,6 +5439,9 @@ SK,2020-09-17,"{'delta': {'confirmed': 53, 'deceased': 4, 'recovered': 67, 'test
 SK,2020-09-18,"{'delta': {'confirmed': 29, 'deceased': 3, 'recovered': 68, 'tested': 227}, 'total': {'confirmed': 2303, 'deceased': 26, 'recovered': 1857, 'tested': 46292}}",2303.0
 SK,2020-09-19,"{'delta': {'confirmed': 39, 'deceased': 2, 'recovered': 34, 'tested': 398}, 'total': {'confirmed': 2342, 'deceased': 28, 'recovered': 1891, 'tested': 46690}}",2342.0
 SK,2020-09-20,"{'delta': {'confirmed': 49, 'deceased': 1, 'recovered': 3, 'tested': 354}, 'total': {'confirmed': 2391, 'deceased': 29, 'recovered': 1894, 'tested': 47044}}",2391.0
+SK,2020-09-21,"{'delta': {'confirmed': 56, 'recovered': 11, 'tested': 225}, 'total': {'confirmed': 2447, 'deceased': 29, 'recovered': 1905, 'tested': 47269}}",2447.0
+SK,2020-09-22,"{'delta': {'confirmed': 66, 'recovered': 23, 'tested': 261}, 'total': {'confirmed': 2513, 'deceased': 29, 'recovered': 1928, 'tested': 47530}}",2513.0
+SK,2020-09-23,"{'total': {'confirmed': 2513, 'deceased': 29, 'recovered': 1928, 'tested': 47530}}",2513.0
 TG,2020-03-02,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 TG,2020-03-03,{'total': {'confirmed': 1}},1.0
 TG,2020-03-04,{'total': {'confirmed': 1}},1.0
@@ -5558,6 +5645,9 @@ TG,2020-09-17,"{'delta': {'confirmed': 2159, 'deceased': 9, 'recovered': 2108, '
 TG,2020-09-18,"{'delta': {'confirmed': 2043, 'deceased': 11, 'recovered': 1802, 'tested': 50634}, 'total': {'confirmed': 167046, 'deceased': 1016, 'recovered': 135357, 'tested': 2379950}}",167046.0
 TG,2020-09-19,"{'delta': {'confirmed': 2123, 'deceased': 9, 'recovered': 2151, 'tested': 54459}, 'total': {'confirmed': 169169, 'deceased': 1025, 'recovered': 137508, 'tested': 2434409}}",169169.0
 TG,2020-09-20,"{'delta': {'confirmed': 2137, 'deceased': 8, 'recovered': 2192, 'tested': 53811}, 'total': {'confirmed': 171306, 'deceased': 1033, 'recovered': 139700, 'tested': 2488220}}",171306.0
+TG,2020-09-21,"{'delta': {'confirmed': 1302, 'deceased': 9, 'recovered': 2230, 'tested': 31095}, 'total': {'confirmed': 172608, 'deceased': 1042, 'recovered': 141930, 'tested': 2519315}}",172608.0
+TG,2020-09-22,"{'delta': {'confirmed': 2166, 'deceased': 10, 'recovered': 2143, 'tested': 53690}, 'total': {'confirmed': 174774, 'deceased': 1052, 'recovered': 144073, 'tested': 2573005}}",174774.0
+TG,2020-09-23,"{'delta': {'confirmed': 2296, 'deceased': 10, 'recovered': 2062, 'tested': 55892}, 'total': {'confirmed': 177070, 'deceased': 1062, 'recovered': 146135, 'tested': 2628897}}",177070.0
 TN,2020-03-07,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 TN,2020-03-08,{'total': {'confirmed': 1}},1.0
 TN,2020-03-09,{'total': {'confirmed': 1}},1.0
@@ -5756,6 +5846,9 @@ TN,2020-09-17,"{'delta': {'confirmed': 5560, 'deceased': 59, 'recovered': 5524, 
 TN,2020-09-18,"{'delta': {'confirmed': 5488, 'deceased': 67, 'recovered': 5525, 'tested': 85543}, 'total': {'confirmed': 530908, 'deceased': 8685, 'recovered': 475717, 'tested': 6303466}}",530908.0
 TN,2020-09-19,"{'delta': {'confirmed': 5569, 'deceased': 66, 'recovered': 5556, 'tested': 85117}, 'total': {'confirmed': 536477, 'deceased': 8751, 'recovered': 481273, 'tested': 6388583}}",536477.0
 TN,2020-09-20,"{'delta': {'confirmed': 5516, 'deceased': 60, 'recovered': 5206, 'tested': 86073}, 'total': {'confirmed': 541993, 'deceased': 8811, 'recovered': 486479, 'tested': 6474656}}",541993.0
+TN,2020-09-21,"{'delta': {'confirmed': 5344, 'deceased': 60, 'recovered': 5492, 'tested': 80672}, 'total': {'confirmed': 547337, 'deceased': 8871, 'recovered': 491971, 'tested': 6555328}}",547337.0
+TN,2020-09-22,"{'delta': {'confirmed': 5337, 'deceased': 76, 'recovered': 5406, 'tested': 84730}, 'total': {'confirmed': 552674, 'deceased': 8947, 'recovered': 497377, 'tested': 6640058}}",552674.0
+TN,2020-09-23,"{'total': {'confirmed': 552674, 'deceased': 8947, 'recovered': 497377, 'tested': 6640058}}",552674.0
 TR,2020-04-06,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 TR,2020-04-07,{'total': {'confirmed': 1}},1.0
 TR,2020-04-08,{'total': {'confirmed': 1}},1.0
@@ -5924,6 +6017,9 @@ TR,2020-09-17,"{'delta': {'confirmed': 527, 'deceased': 5, 'recovered': 521, 'te
 TR,2020-09-18,"{'delta': {'confirmed': 273, 'deceased': 6, 'recovered': 603, 'tested': 3041}, 'total': {'confirmed': 20969, 'deceased': 228, 'other': 22, 'recovered': 13559, 'tested': 347959}}",20969.0
 TR,2020-09-19,"{'delta': {'confirmed': 535, 'deceased': 7, 'recovered': 583, 'tested': 4045}, 'total': {'confirmed': 21504, 'deceased': 235, 'other': 22, 'recovered': 14142, 'tested': 352004}}",21504.0
 TR,2020-09-20,"{'delta': {'confirmed': 525, 'deceased': 4, 'other': 1, 'recovered': 645, 'tested': 4350}, 'total': {'confirmed': 22029, 'deceased': 239, 'other': 23, 'recovered': 14787, 'tested': 356354}}",22029.0
+TR,2020-09-21,"{'delta': {'confirmed': 243, 'deceased': 6, 'recovered': 654, 'tested': 2522}, 'total': {'confirmed': 22272, 'deceased': 245, 'other': 23, 'recovered': 15441, 'tested': 358876}}",22272.0
+TR,2020-09-22,"{'delta': {'confirmed': 559, 'deceased': 3, 'recovered': 419, 'tested': 3602}, 'total': {'confirmed': 22831, 'deceased': 248, 'other': 23, 'recovered': 15860, 'tested': 362478}}",22831.0
+TR,2020-09-23,"{'delta': {'confirmed': 504, 'deceased': 2, 'recovered': 603, 'tested': 4357}, 'total': {'confirmed': 23335, 'deceased': 250, 'other': 23, 'recovered': 16463, 'tested': 366835}}",23335.0
 TT,2020-01-30,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 TT,2020-02-02,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 2}}",2.0
 TT,2020-02-03,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 3}}",3.0
@@ -6126,11 +6222,14 @@ TT,2020-09-12,"{'delta': {'confirmed': 94414, 'deceased': 1111, 'other': 20, 're
 TT,2020-09-13,"{'delta': {'confirmed': 93220, 'deceased': 1140, 'other': 10, 'recovered': 77748, 'tested': 978500}, 'total': {'confirmed': 4845027, 'deceased': 79754, 'other': 671, 'recovered': 3777065, 'tested': 57239428}}",4845027.0
 TT,2020-09-14,"{'delta': {'confirmed': 81913, 'deceased': 1054, 'other': 15, 'recovered': 79213, 'tested': 1072845}, 'total': {'confirmed': 4926940, 'deceased': 80808, 'other': 686, 'recovered': 3856278, 'tested': 58312273}}",4926940.0
 TT,2020-09-15,"{'delta': {'confirmed': 91098, 'deceased': 1281, 'other': 31, 'recovered': 82849, 'tested': 1116842}, 'total': {'confirmed': 5018038, 'deceased': 82089, 'other': 717, 'recovered': 3939127, 'tested': 59429115}}",5018038.0
-TT,2020-09-16,"{'delta': {'confirmed': 97856, 'deceased': 1140, 'other': 15, 'recovered': 82923, 'tested': 1136613}, 'total': {'confirmed': 5115894, 'deceased': 83229, 'other': 732, 'recovered': 4022050, 'tested': 60565728}}",5115894.0
-TT,2020-09-17,"{'delta': {'confirmed': 96783, 'deceased': 1175, 'other': 5, 'recovered': 87778, 'tested': 1006615}, 'total': {'confirmed': 5212677, 'deceased': 84404, 'other': 737, 'recovered': 4109828, 'tested': 61572343}}",5212677.0
-TT,2020-09-18,"{'delta': {'confirmed': 92969, 'deceased': 1221, 'other': 6, 'recovered': 95512, 'tested': 881911}, 'total': {'confirmed': 5305646, 'deceased': 85625, 'other': 743, 'recovered': 4205340, 'tested': 62454254}}",5305646.0
-TT,2020-09-19,"{'delta': {'confirmed': 92574, 'deceased': 1149, 'other': 14, 'recovered': 94384, 'tested': 1206806}, 'total': {'confirmed': 5398220, 'deceased': 86774, 'other': 757, 'recovered': 4299724, 'tested': 63661060}}",5398220.0
-TT,2020-09-20,"{'delta': {'confirmed': 87392, 'deceased': 1135, 'other': 22, 'recovered': 92926, 'tested': 731534}, 'total': {'confirmed': 5485612, 'deceased': 87909, 'other': 779, 'recovered': 4392650, 'tested': 64392594}}",5485612.0
+TT,2020-09-16,"{'delta': {'confirmed': 97860, 'deceased': 1140, 'other': 15, 'recovered': 82924, 'tested': 1136613}, 'total': {'confirmed': 5115898, 'deceased': 83229, 'other': 732, 'recovered': 4022051, 'tested': 60565728}}",5115898.0
+TT,2020-09-17,"{'delta': {'confirmed': 96787, 'deceased': 1175, 'other': 4, 'recovered': 87788, 'tested': 1006615}, 'total': {'confirmed': 5212685, 'deceased': 84404, 'other': 736, 'recovered': 4109839, 'tested': 61572343}}",5212685.0
+TT,2020-09-18,"{'delta': {'confirmed': 92973, 'deceased': 1221, 'other': 9, 'recovered': 95515, 'tested': 881911}, 'total': {'confirmed': 5305658, 'deceased': 85625, 'other': 745, 'recovered': 4205354, 'tested': 62454254}}",5305658.0
+TT,2020-09-19,"{'delta': {'confirmed': 92574, 'deceased': 1149, 'other': 13, 'recovered': 94389, 'tested': 1206806}, 'total': {'confirmed': 5398232, 'deceased': 86774, 'other': 758, 'recovered': 4299743, 'tested': 63661060}}",5398232.0
+TT,2020-09-20,"{'delta': {'confirmed': 87395, 'deceased': 1135, 'other': 24, 'recovered': 92926, 'tested': 731534}, 'total': {'confirmed': 5485627, 'deceased': 87909, 'other': 782, 'recovered': 4392669, 'tested': 64392594}}",5485627.0
+TT,2020-09-21,"{'delta': {'confirmed': 74493, 'deceased': 1056, 'other': 16, 'recovered': 102070, 'tested': 933185}, 'total': {'confirmed': 5560120, 'deceased': 88965, 'other': 798, 'recovered': 4494739, 'tested': 65325779}}",5560120.0
+TT,2020-09-22,"{'delta': {'confirmed': 83361, 'deceased': 1085, 'other': 9, 'recovered': 89653, 'tested': 953683}, 'total': {'confirmed': 5643481, 'deceased': 90050, 'other': 807, 'recovered': 4584392, 'tested': 66279462}}",5643481.0
+TT,2020-09-23,"{'delta': {'confirmed': 2800, 'deceased': 13, 'recovered': 2665}, 'total': {'confirmed': 5646281, 'deceased': 90063, 'other': 807, 'recovered': 4587057, 'tested': 66279462}}",5646281.0
 UN,2020-05-19,"{'delta': {'confirmed': 814}, 'total': {'confirmed': 814}}",814.0
 UN,2020-05-20,"{'delta': {'confirmed': 282}, 'total': {'confirmed': 1096}}",1096.0
 UN,2020-05-21,"{'delta': {'confirmed': 307}, 'total': {'confirmed': 1403}}",1403.0
@@ -6394,6 +6493,9 @@ UP,2020-09-17,"{'delta': {'confirmed': 6029, 'deceased': 81, 'recovered': 4715, 
 UP,2020-09-18,"{'delta': {'confirmed': 6494, 'deceased': 98, 'recovered': 6806, 'tested': 155828}, 'total': {'confirmed': 342788, 'deceased': 4869, 'recovered': 270094, 'tested': 8245710}}",342788.0
 UP,2020-09-19,"{'delta': {'confirmed': 5729, 'deceased': 84, 'recovered': 6596, 'tested': 154075}, 'total': {'confirmed': 348517, 'deceased': 4953, 'recovered': 276690, 'tested': 8399785}}",348517.0
 UP,2020-09-20,"{'delta': {'confirmed': 5758, 'deceased': 94, 'recovered': 6584, 'tested': 140819}, 'total': {'confirmed': 354275, 'deceased': 5047, 'recovered': 283274, 'tested': 8540604}}",354275.0
+UP,2020-09-21,"{'delta': {'confirmed': 4618, 'deceased': 88, 'recovered': 6320, 'tested': 136023}, 'total': {'confirmed': 358893, 'deceased': 5135, 'recovered': 289594, 'tested': 8676627}}",358893.0
+UP,2020-09-22,"{'delta': {'confirmed': 5650, 'deceased': 77, 'recovered': 6589, 'tested': 150099}, 'total': {'confirmed': 364543, 'deceased': 5212, 'recovered': 296183, 'tested': 8826726}}",364543.0
+UP,2020-09-23,"{'total': {'confirmed': 364543, 'deceased': 5212, 'recovered': 296183, 'tested': 8826726}}",364543.0
 UT,2020-03-15,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 UT,2020-03-16,{'total': {'confirmed': 1}},1.0
 UT,2020-03-17,{'total': {'confirmed': 1}},1.0
@@ -6584,6 +6686,9 @@ UT,2020-09-17,"{'delta': {'confirmed': 1192, 'deceased': 13, 'recovered': 533, '
 UT,2020-09-18,"{'delta': {'confirmed': 868, 'deceased': 4, 'recovered': 1285, 'tested': 12413}, 'total': {'confirmed': 38007, 'deceased': 464, 'other': 155, 'recovered': 26095, 'tested': 579582}}",38007.0
 UT,2020-09-19,"{'delta': {'confirmed': 2078, 'deceased': 14, 'other': 14, 'recovered': 878, 'tested': 14894}, 'total': {'confirmed': 40085, 'deceased': 478, 'other': 169, 'recovered': 26973, 'tested': 594476}}",40085.0
 UT,2020-09-20,"{'delta': {'confirmed': 878, 'deceased': 13, 'other': 20, 'recovered': 855, 'tested': 10760}, 'total': {'confirmed': 40963, 'deceased': 491, 'other': 189, 'recovered': 27828, 'tested': 605236}}",40963.0
+UT,2020-09-21,"{'delta': {'confirmed': 814, 'deceased': 10, 'other': 12, 'recovered': 1172, 'tested': 11750}, 'total': {'confirmed': 41777, 'deceased': 501, 'other': 201, 'recovered': 29000, 'tested': 616986}}",41777.0
+UT,2020-09-22,"{'delta': {'confirmed': 874, 'deceased': 11, 'recovered': 1107, 'tested': 13462}, 'total': {'confirmed': 42651, 'deceased': 512, 'other': 201, 'recovered': 30107, 'tested': 630448}}",42651.0
+UT,2020-09-23,"{'total': {'confirmed': 42651, 'deceased': 512, 'other': 201, 'recovered': 30107, 'tested': 630448}}",42651.0
 WB,2020-03-17,"{'delta': {'confirmed': 1}, 'total': {'confirmed': 1}}",1.0
 WB,2020-03-18,{'total': {'confirmed': 1}},1.0
 WB,2020-03-19,{'total': {'confirmed': 1}},1.0
@@ -6772,3 +6877,6 @@ WB,2020-09-17,"{'delta': {'confirmed': 3197, 'deceased': 60, 'recovered': 2948, 
 WB,2020-09-18,"{'delta': {'confirmed': 3192, 'deceased': 59, 'recovered': 2960, 'tested': 45229}, 'total': {'confirmed': 218772, 'deceased': 4242, 'recovered': 190021, 'tested': 2699299}}",218772.0
 WB,2020-09-19,"{'delta': {'confirmed': 3188, 'deceased': 56, 'recovered': 2993, 'tested': 45563}, 'total': {'confirmed': 221960, 'deceased': 4298, 'recovered': 193014, 'tested': 2744862}}",221960.0
 WB,2020-09-20,"{'delta': {'confirmed': 3177, 'deceased': 61, 'recovered': 2958, 'tested': 45656}, 'total': {'confirmed': 225137, 'deceased': 4359, 'recovered': 195972, 'tested': 2790518}}",225137.0
+WB,2020-09-21,"{'delta': {'confirmed': 3165, 'deceased': 62, 'recovered': 3011, 'tested': 43313}, 'total': {'confirmed': 228302, 'deceased': 4421, 'recovered': 198983, 'tested': 2833831}}",228302.0
+WB,2020-09-22,"{'delta': {'confirmed': 3182, 'deceased': 62, 'recovered': 3047, 'tested': 45447}, 'total': {'confirmed': 231484, 'deceased': 4483, 'recovered': 202030, 'tested': 2879278}}",231484.0
+WB,2020-09-23,"{'total': {'confirmed': 231484, 'deceased': 4483, 'recovered': 202030, 'tested': 2879278}}",231484.0
